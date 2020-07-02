@@ -1,7 +1,7 @@
 ##SPACE WAR 게임은 pygame 모듈을 바탕으로 제작되었습니다.
 
 # 실행 방법
-1. SPACEWAR.py 및 images, sounds 폴더를 복제합니다.
+1. 우측 상단에 code -> downloadzip
 2. images와 sounds 폴더 내에 게임 리소스로 활용되는 사진과 효과음이 있습니다.
 3. SPACEWAR.py를 실행합니다
 
