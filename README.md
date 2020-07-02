@@ -1,4 +1,4 @@
-##SPACE WAR 게임은 pygame 모듈을 바탕으로 제작되었습니다.
+## SPACE WAR 게임은 pygame 모듈을 바탕으로 제작되었습니다.
 
 # 실행 방법
 1. 우측 상단에 code -> DownloadZip 버튼을 통해 게임 파일을 다운로드 후 압축 해제를 합니다.
